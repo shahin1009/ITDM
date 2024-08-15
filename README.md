@@ -73,8 +73,11 @@ This script will perform the following:
 - **`PowerSpecPlot(Data, fsamp, splitsec, overlap, name)`**: Plots the power spectral density of the input signal.
   ![alt text](https://github.com/shahin1009/ITDM/blob/main/pics/ITDMwithmac_03.png?raw=true)
 - **`ITDM2svd(G, fsamp, order, p, name, Gyy, freq_of_frf)`**: Applies the ITD method incorporating Singular Value Decomposition (SVD) to reduce the system order.
+
   ![alt text](https://github.com/shahin1009/ITDM/blob/main/pics/ITDMwithmac_06.png?raw=true)
+  
   ![alt text](https://github.com/shahin1009/ITDM/blob/main/pics/ITDMwithmac_05.png?raw=true)
+  
 - **`ModeVisual(params_matrix1, 'data1')`**: Visualizes the identified mode shapes.
   ![alt text](https://github.com/shahin1009/ITDM/blob/main/pics/ITDMwithmac_08.png?raw=true)
   
