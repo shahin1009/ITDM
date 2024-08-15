@@ -68,6 +68,7 @@ This script will perform the following:
 ## Functions Overview
 
 - **`Autocorr(Data)`**: Computes the auto-correlation matrix of the input data.
+- 
 - **`AutocorrVisual(G, lag, limit_x, name)`**: Visualizes the auto-correlation matrix.
 - **`PowerSpecPlot(Data, fsamp, splitsec, overlap, name)`**: Plots the power spectral density of the input signal.
 - **`ITDM2svd(G, fsamp, order, p, name, Gyy, freq_of_frf)`**: Applies the ITD method incorporating Singular Value Decomposition (SVD) to reduce the system order.
