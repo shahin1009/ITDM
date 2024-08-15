@@ -12,8 +12,7 @@ This repository contains a MATLAB implementation of system identification techni
   - [Running the Analysis](#running-the-analysis)
 - [Functions Overview](#functions-overview)
 - [Visualization](#visualization)
-- [Examples](#examples)
-- [License](#license)
+
 
 ## Introduction
 
